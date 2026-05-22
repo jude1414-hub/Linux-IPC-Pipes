@@ -100,7 +100,7 @@ void client(int wfd, int rfd) {
 }
 ```
 ## OUTPUT
-<img width="798" height="410" alt="Screenshot 2025-11-25 183932" src="https://github.com/user-attachments/assets/dfbd647c-6872-4d8b-8abf-d2a0e54b9212" />
+<img width="458" height="181" alt="image" src="https://github.com/user-attachments/assets/f0254484-4824-4895-b9f0-cea4136ba129" />
 
 
 
