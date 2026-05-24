@@ -195,7 +195,7 @@ void client() {
 }
 ```
 ## OUTPUT
-<img width="563" height="432" alt="Screenshot 2025-11-25 185055" src="https://github.com/user-attachments/assets/59db6b4b-5d8d-41a3-b07c-76598c2da3f8" />
+<img width="513" height="279" alt="image" src="https://github.com/user-attachments/assets/bba769e1-7c30-42e3-a0ff-308f8d682bfd" />
 
 
 # RESULT:
